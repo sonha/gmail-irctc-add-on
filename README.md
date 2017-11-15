@@ -1,8 +1,8 @@
-Gmail IRCTC add-on
+## Gmail IRCTC add-on
 
 A simple Gmail add-on to display live PNR status
 
-Installation :
+## Installation :
 
 * Follow https://developers.google.com/gmail/add-ons/guides/quickstart
 * Copy paste the code from `Code.gs` and `appscript.json` in the repo
